@@ -1,2 +1,3 @@
-puts 'Hi there, world'
+require 'phrase'
+puts Phrase
 
